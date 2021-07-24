@@ -24,7 +24,7 @@
     {
       "keyCode": 34,
       "label": "5"
-    },
+    }, 
     {
       "keyCode": 35,
       "label": "6"
@@ -334,14 +334,14 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 17494,
-      "label": "2",
+      "keyCode": 17492,
+      "label": "0",
       "extraLabel": "MOVE"
     },
     {
-      "keyCode": 17494,
+      "keyCode": 17452,
       "label": "2",
-      "extraLabel": "MOVE"
+      "extraLabel": "SHIFTTO"
     },
     {
       "keyCode": 17453,
