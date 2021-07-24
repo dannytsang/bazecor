@@ -288,9 +288,8 @@
       "verbose": "Left Alt"
     },
     {
-      "keyCode": 49155,
+      "keyCode": 226,
       "label": "LEFT ALT",
-      "extraLabel": "OSM",
       "verbose": "Left Alt"
     },
     {
@@ -353,7 +352,7 @@
     }
   ],
   "colormap": [
-    0,
+    4,
     4,
     4,
     4,
