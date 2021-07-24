@@ -1,8 +1,8 @@
 {
   "keymap": [
     {
-      "keyCode": 41,
-      "label": "ESC"
+      "keyCode": 53,
+      "label": "`"
     },
     {
       "keyCode": 58,
@@ -142,9 +142,9 @@
       "label": "ENTER"
     },
     {
-      "keyCode": 57,
-      "label": "CAPSLOCK",
-      "verbose": "Caps Lock"
+      "keyCode": 0,
+      "label": "NO KEY",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 80,
@@ -315,8 +315,9 @@
       "verbose": "Left Alt"
     },
     {
-      "keyCode": 44,
-      "label": "SPACE"
+      "keyCode": 226,
+      "label": "LEFT ALT",
+      "verbose": "Left Alt"
     },
     {
       "keyCode": 44,
@@ -391,7 +392,7 @@
     6,
     11,
     15,
-    4,
+    12,
     2,
     2,
     2,
@@ -407,7 +408,7 @@
     4,
     4,
     4,
-    1,
+    4,
     1,
     5,
     3,
