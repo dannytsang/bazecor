@@ -302,9 +302,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 17494,
-      "label": "2",
-      "extraLabel": "MOVE"
+      "keyCode": 555,
+      "label": "TAB",
+      "extraLabel": "A+"
     },
     {
       "keyCode": 17452,
@@ -312,14 +312,14 @@
       "extraLabel": "SHIFTTO"
     },
     {
-      "keyCode": 17453,
-      "label": "3",
-      "extraLabel": "SHIFTTO"
+      "keyCode": 17494,
+      "label": "2",
+      "extraLabel": "MOVE"
     },
     {
-      "keyCode": 17495,
-      "label": "3",
-      "extraLabel": "MOVE"
+      "keyCode": 0,
+      "label": "NO KEY",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 44,
@@ -341,9 +341,9 @@
       "verbose": "Right Win"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 17152,
+      "label": "NEXT",
+      "extraLabel": "LED"
     },
     {
       "keyCode": 228,
