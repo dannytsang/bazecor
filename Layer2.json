@@ -88,9 +88,9 @@
       "verbose": "Page Up"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 844,
+      "label": "DEL",
+      "extraLabel": "C+A+"
     },
     {
       "keyCode": 0,
@@ -113,9 +113,8 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 73,
+      "label": "INSERT"
     },
     {
       "keyCode": 0,
@@ -164,9 +163,9 @@
       "verbose": "Page Down"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 2345,
+      "label": "ESC",
+      "extraLabel": "C+S+"
     },
     {
       "keyCode": 0,
@@ -199,9 +198,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 71,
+      "label": "SCROLL LOCK",
+      "verbose": "Scroll Lock"
     },
     {
       "keyCode": 0,
@@ -269,9 +268,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "NO KEY",
-      "verbose": "Disabled"
+      "keyCode": 83,
+      "label": "NUMLOCK",
+      "verbose": "Num Lock"
     },
     {
       "keyCode": 0,
@@ -368,9 +367,9 @@
       "verbose": "Right Win"
     },
     {
-      "keyCode": 17152,
-      "label": "NEXT",
-      "extraLabel": "LED"
+      "keyCode": 0,
+      "label": "NO KEY",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 228,
@@ -380,24 +379,24 @@
   ],
   "colormap": [
     0,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
     4,
     6,
     2,
     6,
     11,
-    15,
+    0,
     12,
     2,
     2,
     2,
     11,
-    15,
+    0,
     4,
     4,
     15,
@@ -412,15 +411,17 @@
     1,
     5,
     14,
-    5,
     4,
-    4,
-    4,
-    4,
-    4,
-    4,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
     3,
     15,
+    15,
+    10,
     15,
     10,
     15,
@@ -428,9 +429,7 @@
     15,
     15,
     15,
-    15,
-    15,
-    15,
+    10,
     15,
     15,
     15,
@@ -439,7 +438,7 @@
     15,
     15,
     15,
-    15,
+    10,
     4,
     0,
     4,
